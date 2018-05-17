@@ -1,0 +1,12 @@
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\bin\Debug\Laba 3.exe.config
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\bin\Debug\Laba 3.exe
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\bin\Debug\Laba 3.pdb
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\obj\Debug\Laba 3.csprojResolveAssemblyReference.cache
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\obj\Debug\Laba 3.exe
+F:\Папка Жени\ASP.NET Core MVC книга\Laba 3\Laba 3\obj\Debug\Laba 3.pdb
+E:\Николаенко\ЯП\Laba 3\Laba 3\bin\Debug\Laba 3.exe.config
+E:\Николаенко\ЯП\Laba 3\Laba 3\bin\Debug\Laba 3.exe
+E:\Николаенко\ЯП\Laba 3\Laba 3\bin\Debug\Laba 3.pdb
+E:\Николаенко\ЯП\Laba 3\Laba 3\obj\Debug\Laba 3.csprojResolveAssemblyReference.cache
+E:\Николаенко\ЯП\Laba 3\Laba 3\obj\Debug\Laba 3.exe
+E:\Николаенко\ЯП\Laba 3\Laba 3\obj\Debug\Laba 3.pdb
